@@ -1,0 +1,85 @@
+html{
+    height: 100%;
+  }
+  body {
+    background-color: #0422bc;
+  }
+  header {
+    background-color:rgb(187, 31, 31);
+    height: 150px;
+    text-align: center;
+  }
+  
+
+  
+
+
+ 
+  
+  h1 {
+    font-size: 1rem;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    text-align: 100px;
+  }
+  
+  
+  
+  
+ h2 {
+    color: black ;
+    font-size: 300px;
+    font-family: 'Playfair Display', serif;
+    padding-left: 10px;
+   
+  
+  }
+ 
+  
+ 
+ 
+  p{
+    font-size: 20px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+  
+  }
+  
+  
+body{
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+  }
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+ 
+  
+    
+  
+  
+    
+  
+  
+  
+    
